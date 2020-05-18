@@ -1,5 +1,5 @@
 # satellite-orbit-shape-parameters
-This is a Final Research Project on visiualizing satellite orbit parameters Supervised by: ***Dr.Eman Seraj***
+This is Satellite communications courses' Final Research Project on visualizing satellite orbit parameters Supervised by: ***Dr.Eman Seraj*** 
 
 * Desgin program of the satellite system by using any programming language (
 matlab , python ...............................) to get the relationship between satelillte
